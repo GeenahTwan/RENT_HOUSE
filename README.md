@@ -39,3 +39,55 @@ Plateforme web immobilière développée avec Python et Django.
 7. Lancer le serveur :
 
    python manage.py runserver
+
+Lancer le projet
+
+Terminal 1 : démarrer Django
+python manage.py runserver
+
+
+Terminal 2 : démarrer Tailwind CSS
+
+npm run dev
+Ouvrir ensuite le navigateur à l'adresse :
+
+http://127.0.0.1:8000/
+
+Compiler Tailwind pour la production
+Pour générer un fichier CSS optimisé :
+
+npm run build
+
+Collaboration sur GitHub:
+
+Tous les membres travaillent sur la branche main.
+
+Avant de commencer à travailler :
+
+git pull origin main
+
+Avant chaque git push, les modifications doivent être présentées pour vérification et validation.
+
+Après autorisation :
+
+git add .
+git commit -m "Description des modifications"
+git push origin main
+
+Règles de collaboration
+
+Respecter les parties attribuées à chaque membre.
+
+Ne pas modifier le travail d'un autre membre sans concertation.
+
+Toujours récupérer les dernières modifications avant de commencer.
+
+Ne jamais effectuer un git push sans vérification préalable.
+
+Garder un code propre, organisé et compréhensible.
+
+Développeurs
+
+Projet réalisé dans le cadre d'un travail de groupe.
+
+Organisation : Grow and Glow.
