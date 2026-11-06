@@ -12,9 +12,9 @@ Plateforme web immobilière développée avec Python et Django.
 
 ## Installation
 
-1. Cloner le projet :
+1. Cloner le projet, Dans vscode terminal :
 
-   git clone URL_DU_REPOSITORY
+   git clone https://github.com/Grow-and-Glow/RENT_HOUSE.git
 
 2. Entrer dans le dossier :
 
