@@ -155,7 +155,7 @@ class Administration(models.Model):
 
 class Auth_admin(models.Model):
 
-    
+
 
     id_auth = id_auth = models.AutoField(primary_key=True)
     email_auth = models.EmailField(unique=True)
